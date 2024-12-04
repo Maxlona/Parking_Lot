@@ -6,11 +6,11 @@
 - The Parking Lot can take certain types of vehicles, e.g., Regular, Motorcycle, Truck, Van  or RV
 - Each Vehicle has a different allocation size, for instance, an RV equals 3 regular spots, 
 - These are the sizing chart:
-  Motorcycle  	// 1 spot
-  Regular,    	// 1 spot
-  Truck,      	// 2 spot
-  Van,        	// 2 spot
-  RV			        // 3 spots
+  - Motorcycle  	// 1 spot
+  - Regular,    	// 1 spot
+  - Truck,      	// 2 spot
+  - Van,        	// 2 spot
+  - RV			        // 3 spots
 
 **Requirements:**
 - Parking Lot (PL) can not park vehicles over the max allowed limit on initialization.
