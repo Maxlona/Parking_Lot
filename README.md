@@ -1,4 +1,4 @@
-# Parking_Lot
+# Parking Lot
  Logic to add, remove vehicles from Parking Lot
 
 **Assumptions:**
